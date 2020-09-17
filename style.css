@@ -1,0 +1,139 @@
+/*Partie : Main */
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "montserrat",sans-serif;
+  }
+  .middle{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    transform: translateY(-50%);
+  }
+  .counting-sec{
+    padding: 40px 0;
+    width: 100%;
+    background: linear-gradient(90deg,#E69F28,#e8c03c);
+  }
+  .inner-width{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+  }
+  .col{
+    flex: 1;
+    text-align: center;
+    padding: 20px;
+    color: #fff;
+    text-transform: uppercase;
+  }
+  .col i{
+    font-size: 40px;
+    color: #333;
+  }
+  .num{
+    font-size: 40px;
+    margin: 20px 0;
+  }
+/*Partie : End of main*/
+
+/*Partie : Texte 1*/
+.ml7 {
+  position: relative;
+  font-weight: 900;
+  font-size: 1em;
+}
+.ml7 .text-wrapper {
+  position: relative;
+  display: inline-block;
+  padding-top: 0.2em;
+  padding-right: 0.05em;
+  padding-bottom: 0.1em;
+  overflow: hidden;
+}
+.ml7 .letter {
+  transform-origin: 0 100%;
+  display: inline-block;
+  line-height: 1em;
+}
+
+/*Partie : Texte 2*/
+.ml8 {
+  position: relative;
+  font-weight: 900;
+  font-size: 1em;
+}
+.ml8 .text-wrapper {
+  position: relative;
+  display: inline-block;
+  padding-top: 0.2em;
+  padding-right: 0.05em;
+  padding-bottom: 0.1em;
+  overflow: hidden;
+}
+.ml8 .letter {
+  transform-origin: 0 100%;
+  display: inline-block;
+  line-height: 1em;
+}
+
+/*Partie : Texte 3*/
+.ml9 {
+  position: relative;
+  font-weight: 900;
+  font-size: 1em;
+}
+.ml9 .text-wrapper {
+  position: relative;
+  display: inline-block;
+  padding-top: 0.2em;
+  padding-right: 0.05em;
+  padding-bottom: 0.1em;
+  overflow: hidden;
+}
+.ml9 .letter {
+  transform-origin: 0 100%;
+  display: inline-block;
+  line-height: 1em;
+}
+
+/*Partie : Texte 4*/
+.ml10 {
+  position: relative;
+  font-weight: 900;
+  font-size: 1em;
+}
+.ml10 .text-wrapper {
+  position: relative;
+  display: inline-block;
+  padding-top: 0.2em;
+  padding-right: 0.05em;
+  padding-bottom: 0.1em;
+  overflow: hidden;
+}
+.ml10 .letter {
+  transform-origin: 0 100%;
+  display: inline-block;
+  line-height: 1em;
+}
+/*Partie : Texte 5*/
+.ml11 {
+  position: relative;
+  font-weight: 900;
+  font-size: 1em;
+}
+.ml11 .text-wrapper {
+  position: relative;
+  display: inline-block;
+  padding-top: 0.2em;
+  padding-right: 0.05em;
+  padding-bottom: 0.1em;
+  overflow: hidden;
+}
+.ml11 .letter {
+  transform-origin: 0 100%;
+  display: inline-block;
+  line-height: 1em;
+}
+
+
