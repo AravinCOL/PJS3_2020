@@ -6,6 +6,10 @@ header {
     border-left: 3px solid #CF0A2C !important;
     padding-left: 0.5rem;
 }
+
+.pageActualite{
+    padding-bottom: 3rem;;
+}
 footer {
 
     padding-top: 40px;
