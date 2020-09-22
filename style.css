@@ -1,5 +1,5 @@
 
-*/*{
+/*{
     font-family: Arial, serif, Calibri;
 
 }
@@ -76,6 +76,7 @@ nav > ul > li > a{
     text-align: middle;
 }
 */
-.navbarDropdown {
+.navbar {
     color: black;
+    padding: 0px 15px;
 }
