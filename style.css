@@ -1,5 +1,5 @@
 
-*{
+*/*{
     font-family: Arial, serif, Calibri;
 
 }
@@ -45,7 +45,7 @@ nav li:hover .menu {
 .menu li a {
     padding: 15px 0px;
     font-size: 17px;  /* police de texte */
-    color:black;     /* couleur du texte */
+    /*color:black;     /* couleur du texte 
     width: 220px;
  }
 
@@ -61,7 +61,7 @@ nav a{
 
 nav > ul > li > a{
     padding: 0px 55px;
-    color: black;
+    color: black;    
 }
 
 .entete:hover {
@@ -74,4 +74,8 @@ nav > ul > li > a{
     border-top: solid;
     background-color: white;
     text-align: middle;
+}
+*/
+.navbarDropdown {
+    color: black;
 }
